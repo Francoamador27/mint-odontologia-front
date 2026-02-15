@@ -17,4 +17,4 @@ debemos poner las siguientes variables
 
 VITE_API_URL=https://api.
 VITE_TURNSTILE_SITE_KEY=
-VITE_ENTORNO=local
+VITE_ENTORNO=local# sucre-aberturas
